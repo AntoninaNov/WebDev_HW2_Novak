@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Gaga",
+    "color": "black",
+    "age": 2,
+    "favoriteFood": "corn",
+    "pond": "North Pond"
+  },
+  {
+    "id": 2,
+    "name": "Donald",
+    "color": "white",
+    "age": 3,
+    "favoriteFood": "seeds",
+    "pond": "East Pond"
+  }
+]

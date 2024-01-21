@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Gerald",
+    "color": "Grey",
+    "age": 3,
+    "favoriteFood": "Grass",
+    "pond": "South Lake",
+    "temperament": "Protective"
+  },
+  {
+    "id": 2,
+    "name": "Grace",
+    "color": "White",
+    "age": 2,
+    "favoriteFood": "Berries",
+    "pond": "West Pond",
+    "temperament": "Curious"
+  }
+]

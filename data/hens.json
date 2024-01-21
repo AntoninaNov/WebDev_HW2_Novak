@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Henrietta",
+    "breed": "Rhode Island Red",
+    "age": 2,
+    "eggProduction": "High",
+    "favoriteActivity": "Pecking around the barnyard"
+  },
+  {
+    "id": 2,
+    "name": "Clara",
+    "breed": "Plymouth Rock",
+    "age": 1,
+    "eggProduction": "Medium",
+    "favoriteActivity": "Dust bathing in the sun"
+  }
+]
